@@ -1,2 +1,2 @@
-# HelloKotlin8
+# HelloKotlin
 new kotlin project
